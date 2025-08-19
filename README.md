@@ -1,0 +1,1 @@
+# AI-Model-for-Dog-Breed-Detection-and-Information-Generation_August_2025
